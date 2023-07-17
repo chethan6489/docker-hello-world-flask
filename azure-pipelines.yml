@@ -42,5 +42,5 @@ stages:
       inputs:
        azureSubscription: 'Visual Studio Enterprise Subscription (ce9ae6de-058b-4cf9-ac15-d9a6211f2493)'
        appName: 'chethanapp'
-       containers: 'chethanacr.azurecr.ioimagechethandockerhelloworldflask'
+       containers: 'chethanacr.azurecr.io/imagechethandockerhelloworldflask'
       
